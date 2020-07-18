@@ -1,0 +1,19 @@
+
+Complements are used in digital systems to simplify subract operations
+FOr each radix(r-base of number system) system there are two types
+
+Radix Complement - refered to as r's complement
+Diminished Radix Complement - as (r-1)'s complement
+
+Binary System Complements 
+base r = 2 
+
+1's complement - 
+Number     = 110011 
+Complement = 001100
+
+2's Complement - 
+Number     = 110011 
+Complement = 001100
+            +     1
+2's Compl  = 001101                
