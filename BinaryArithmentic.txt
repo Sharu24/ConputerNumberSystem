@@ -1,0 +1,52 @@
+Binary Addition
+-----------------
+0 + 0 = 0 
+0 + 1 = 1
+1 + 0 = 1
+1 + 1 = 0 (Carry 1 as the actually value is 10)
+
+   0011010 = 26
+ +  001100 = 12
+ ---------
+ = 0100110 = 38
+
+Binary Subtraction
+------------------
+https://www.youtube.com/watch?v=OHf0Eg9ZhGQ
+
+0 - 0 = 0 
+1 - 0 = 1
+1 - 1 = 0
+0 - 1 = 0 (Carry 1)
+
+   0011010 = 26
+-   001100 = 12
+ ---------
+   0001110
+
+
+
+Binary Multiplication
+------------------
+0*0=0, 0*1=0, 1*0=0, 1*1=1
+
+0100 * 1101
+-----------
+    0100
+   0000
+  0100
+ 0100
+---------
+ 0110100
+
+
+Binary Division
+------------------
+Similar to the way Decimal integer works
+
+101010 / 110 = 000111
+
+
+
+
+
