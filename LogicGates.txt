@@ -1,0 +1,44 @@
+Logic Gates
+    Electronic Circuits having one or more input and a single output
+    AND OR and NOT
+
+AND Gate
+    Y = A and B and C .. and N
+    Y = A.B.C ... .N
+    Y = ABC..N
+
+    Logic Diagram
+       _____
+    A--|     \___ Y
+    B--|     /
+       -----/
+    
+    00=0, 01=0, 10=0, 11=1
+
+OR Gate
+    Y = A OR B OR C OR .... OR N
+    Y = A + B + C + ...... + N
+    00=0, 01=1, 10=1, 11=1
+
+NOT Gate
+    Y = NOT A
+    Y = Ā
+    0=1, 1=0
+
+NAND = NOT, AND
+     = Y = A NOT AND B NOT AND C ... NOT AND N
+     = 00=1, 10=1, 01=1, 11=0
+
+NOR = NOT, OR
+    = Y = A NOT OR B NOT OR C ... NOT OR N
+    = 00=1, 10=0, 01=0, 11=0
+
+XOR = Ex-OR gate
+    = A'B + AB'
+    = Inequality detector
+    = 00=0, 10=1, 01=1, 11=0
+
+XNOR = Ex- NOR gate
+     = A'B' + AB
+     = Equality detector
+     = 00=1, 01=0, 10=0, 11=1
